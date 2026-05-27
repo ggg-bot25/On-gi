@@ -1,0 +1,6 @@
+{
+  "name": "토닥토닥 교실",
+  "description": "지치고 상처받은 교사님들을 위한 따뜻한 치유와 위로의 심리 상담 공간입니다. 마음 카드로 감정을 나누고 물 흐르듯 흐르는 차 한 잔의 호흡과 따뜻한 동료 교사들의 응원을 전합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
